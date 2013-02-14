@@ -2,13 +2,13 @@
 %global rlibdir  %{_libdir}/R/library
 
 Name:             R-%{packname}
-Version:          0.40_12
+Version:          0.40.13
 Release:          1
 Summary:          Nonparametric kernel smoothing methods for mixed data types
 Group:            Sciences/Mathematics
 License:          GPL
 URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
-Source0:          http://cran.r-project.org/src/contrib/%{packname}_0.40-12.tar.gz
+Source0:          http://cran.r-project.org/src/contrib/np_0.40-13.tar.gz
 Requires:         R-boot R-cubature 
 Requires:         R-quantreg R-MASS 
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex R-boot R-cubature
