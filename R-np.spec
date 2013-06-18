@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          0.50.1
-Release:          1
+Release:          2
 Summary:          Nonparametric kernel smoothing methods for mixed data types
 Group:            Sciences/Mathematics
 License:          GPL
