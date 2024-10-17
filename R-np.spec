@@ -7,7 +7,7 @@ Release:          2
 Summary:          Nonparametric kernel smoothing methods for mixed data types
 Group:            Sciences/Mathematics
 License:          GPL
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/np_0.50-1.tar.gz
 Requires:         R-boot R-cubature 
 Requires:         R-quantreg R-MASS 
